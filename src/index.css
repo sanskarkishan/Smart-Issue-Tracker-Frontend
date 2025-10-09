@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* App shell background */
+body { 
+  @apply bg-gradient-to-b from-slate-50 to-slate-100 text-slate-800 antialiased;
+}
+
